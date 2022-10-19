@@ -50,6 +50,7 @@ pipeline {
             steps {
                 echo 'main'
 		echo 'et pied'
+		echo 'la vilaine'
             }
         }
     }
