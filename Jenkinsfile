@@ -49,7 +49,7 @@ pipeline {
             agent any
             steps {
                 echo 'mains'
-		echo 'le pied'
+		echo 'les pieds du chat'
 		echo 'la vilaine'
 		echo 'mon amis'
             }
