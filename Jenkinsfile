@@ -51,6 +51,7 @@ pipeline {
                 echo 'mains'
 		echo 'le pied'
 		echo 'la vilaine'
+		echo 'mon amis'
             }
         }
     }
